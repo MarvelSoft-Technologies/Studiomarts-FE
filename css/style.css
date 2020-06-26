@@ -1,0 +1,30 @@
+body{
+    background-color: #21212e;
+    font-family: muli;
+    color: white;
+}
+.main{
+    width: 76%;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    font-size: 23px;
+    font-weight: bold;
+    /* line-height: 100px; */
+}
+p {
+    font-size: 10px;
+    color: #66667E;
+}
+a {
+    color: #66667E;
+}
+a:hover {
+    color: #fff;
+}
+.full-holder{
+    height: 150px;
+    width:100%;
+    background-color: #262635;
+}
