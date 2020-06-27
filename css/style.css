@@ -3,6 +3,32 @@ body{
     font-family: muli;
     color: white;
 }
+.topnav ul {
+    position: sticky;
+    top: 0;
+    display: flex;
+    text-decoration: none;
+    margin-left: 800px;
+   
+    
+}
+.topnav ul li{
+    
+    list-style: none;
+    padding: 15px;
+}
+.topnav ul li a{
+    color: white;
+    font-size: 13px;
+}
+.topnav ul li a:hover{
+    color:#d117d1;
+}
+.outlines li a{
+    border-radius: 5px;
+    border: 2px solid white;
+    padding: 10px 25px;
+}
 .main{
     width: 76%;
     margin-left: auto;
