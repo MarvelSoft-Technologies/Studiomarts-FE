@@ -2,6 +2,13 @@ body{
     background-color: #21212e;
     font-family: muli;
     color: white;
+    padding: 0px;
+    margin: 0px;
+}
+.topnav{
+    height: 67px;
+    width: 100%;
+    background-color: #21212e;
 }
 .topnav ul {
     position: sticky;
@@ -52,14 +59,7 @@ a {
     color: #66667E;
 }
 a:hover {
-    color: #fff;
-}
-img{
-    filter: grayscale(100%);
-}
-img:hover {
-    filter: grayscale(0%);
-    
+    color: #fff;  
 }
 .full-holder{
     height: 150px;
